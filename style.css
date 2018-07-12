@@ -8,3 +8,6 @@ h1{
 .whole{
   background-color: #2db92d;
 }
+.navbar navbar-default navbar-fixed-top{
+  background-color: #cc0000;
+}
