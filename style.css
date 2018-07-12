@@ -6,8 +6,11 @@ h1{
   font-family: 'Lucida Grande'
 }
 .whole{
-  background-color: #2db92d;
+  color: #2db92d;
 }
 .navbar{
   background-color: #cc0000;
+}
+.jumbotron{
+  color: white;
 }
