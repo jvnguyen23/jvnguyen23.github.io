@@ -8,7 +8,7 @@ h1{
 .navbar{
   background-color: #cc0000;
 }
-.active{
+a{
   color: white !important;
 }
 .jumbotron{
