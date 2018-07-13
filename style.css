@@ -1,17 +1,12 @@
 body{
-  background-color: #2db92d;
+  background-color: #2db92d !important;
 }
 h1{
   color: #cc0000;
   font-family: 'Lucida Grande'
 }
-.whole{
-  color: #2db92d;
-}
 .navbar{
   background-color: #cc0000;
   color: white;
 }
-.jumbotron{
-  color: black;
-}
+
