@@ -9,12 +9,12 @@ h1{
   background-color: #2db92d !important;
 }
 a{
-  color: white !important;
+  color: #cc0000 !important;
   font-family: 'Lucida Grande' !important;
 }
 .jumbotron{
-  background-color: white !important;
-  color: #2db92d !important;
+  background-color: #2db92d !important;
+  color: #cc0000 !important;
   font-family: 'Lucida Grande' !important;
 }
 .DropdownLink{
