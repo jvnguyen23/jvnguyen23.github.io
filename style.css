@@ -1,5 +1,5 @@
 body{
-  background-image: url("FullSizeRender.jpg");
+  background-image: url("FullSizeRender.jpg") !important;
 }
 h1{
   color: #cc0000;
