@@ -1,12 +1,12 @@
 body{
-  background-color: #2db92d !important;
+  background-color: white !important;
 }
 h1{
   color: #cc0000;
   font-family: 'Lucida Grande'
 }
 .navbar{
-  background-color: #cc0000;
+  background-color: #2db92d !important;
 }
 a{
   color: white !important;
