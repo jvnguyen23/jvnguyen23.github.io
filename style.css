@@ -1,9 +1,9 @@
 body{
-  background-color: white !important;
+  background-image: url("FullSizeRender.jpg");
 }
 h1{
   color: #cc0000;
-  font-family: 'Lucida Grande'
+  font-family: 'Lucida Grande';
 }
 .navbar{
   background-color: #2db92d !important;
