@@ -10,10 +10,6 @@ html{
   -o-background-size: cover !important;
   background-size: cover !important;
 }
-h1{
-  color: #cc0000;
-  font-family: 'Lucida Grande';
-}
 .navbar{
   background-color: #2db92d !important;
 }
