@@ -1,7 +1,7 @@
 body{
   background-image: url("FullSizeRender.jpg") !important;
   background-repeat: no-repeat !important;
-  background-size: 600px 900px !important;
+  background-size: 900px 900px !important;
 }
 h1{
   color: #cc0000;
@@ -15,7 +15,7 @@ a{
   font-family: 'Lucida Grande' !important;
 }
 .heading{
-  color: #cc0000 !important;
+  color: black !important;
   font-family: 'Lucida Grande' !important;
 }
 .DropdownLink{
