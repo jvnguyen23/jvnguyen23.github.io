@@ -17,7 +17,7 @@ a{
 .heading{
   color: black !important;
   font-family: 'Lucida Grande' !important;
-  background-color: #2db92d !important;
+  font-size: 500%;
 }
 .DropdownLink{
   color: black !important;
