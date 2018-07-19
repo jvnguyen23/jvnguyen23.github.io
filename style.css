@@ -13,6 +13,7 @@ a{
   font-family: 'Lucida Grande' !important;
   font-size: 150% !important;
   background-color: #2db92d !important;
+  padding-bottom: 0px !important;
 }
 .DropdownLink{
   color: black !important;
