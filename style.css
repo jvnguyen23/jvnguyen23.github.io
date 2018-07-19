@@ -9,9 +9,10 @@ a{
   font-family: 'Lucida Grande' !important;
 }
 .heading{
-  color: black !important;
+  color: white !important;
   font-family: 'Lucida Grande' !important;
   font-size: 150% !important;
+  background-color: #2db92d !important;
 }
 .DropdownLink{
   color: black !important;
