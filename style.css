@@ -1,7 +1,9 @@
 body{
   background-image: url("friedRice.jpg") !important;
-  background-repeat: no-repeat !important;
-  background-size: contain !important;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 /*html{
   background: url("friedRice.jpg") no-repeat center center fixed !important; 
