@@ -1,8 +1,8 @@
-/*body{
+body{
   background-image: url("friedRice.jpg") !important;
   background-repeat: no-repeat !important;
-  background-size: 1120px 700px !important;
-}*/
+  background-size: cover !important;
+}
 /*html{
   background: url("friedRice.jpg") no-repeat center center fixed !important; 
   -webkit-background-size: cover !important;
