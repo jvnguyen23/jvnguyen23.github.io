@@ -1,6 +1,5 @@
 body{
-  background-image: url("friedRice.jpg") !important;
-  background-size: 1100px 800px !important;
+  background-color: white !important;
 }
 /*html{
   background: url("friedRice.jpg") no-repeat center center fixed !important; 
