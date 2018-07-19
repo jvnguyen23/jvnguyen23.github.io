@@ -7,6 +7,10 @@ h2{
   color: white !important;
   font-family: 'Lucida Grande';
 }
+label{
+  color: white !important;
+  font-family: 'Lucida Grande';
+}
 
 .form-signin {
   max-width: 330px;
