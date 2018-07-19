@@ -1,7 +1,11 @@
 body {
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: #eee;
+  background-color: #2db92d !important;
+}
+h2{
+  color: white !important;
+  font-family: 'Lucida Grande';
 }
 
 .form-signin {
@@ -38,3 +42,4 @@ body {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+
