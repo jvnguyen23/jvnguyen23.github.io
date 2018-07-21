@@ -63,7 +63,17 @@
            
   <!--<center><img src="friedRice.jpg" width=850 height=530></center>-->
  
-                                                            
+ <script>
+   $('a[href^="#"]').on('click', function(event) {
+    var target = $(this.getAttribute('href'));
+    if( target.length ) {
+        event.preventDefault();
+        $('html, body').stop().animate({
+            scrollTop: target.offset().top
+        }, 1000);
+    }
+});  
+  </script>
   
   
   
