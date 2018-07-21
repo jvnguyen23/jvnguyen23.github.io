@@ -1,6 +1,6 @@
-body{
+/*body{
   background-color: white !important;
-}
+}*/
 .navbar{
   background-color: #2db92d !important;
 }
@@ -33,6 +33,12 @@ section{
   width: 100%;
   height: 1000px;
   float: left;
+}
+#page1{
+  background-color: white;
+}
+#page2{
+  background-color: #2db92d;
 }
 
 
