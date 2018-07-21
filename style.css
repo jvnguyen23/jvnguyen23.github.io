@@ -49,5 +49,8 @@ h3{
   color: red;
   font-family: 'Lucida Grande';
 }
+a:hover {
+    text-decoration: underline;
+}
 
 
