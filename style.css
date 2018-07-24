@@ -78,5 +78,8 @@ h2{
 hr{
   color: #2db92d !important;
 }
-
+#getStarted{
+  color: #cc0000 !important;
+  font-family: 'Lucida Grande' !important;
+}
 
