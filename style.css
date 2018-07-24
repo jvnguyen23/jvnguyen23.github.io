@@ -2,14 +2,14 @@
   background-color: white !important;
 }*/
 .navbar{
-  background-color: #2db92d !important;
+  background-color: white !important;
 }
 a{
   color: white !important;
   font-family: 'Lucida Grande' !important;
 }
 .heading{
-  color: #2db92d !important;
+  color: white !important;
   font-family: 'Lucida Grande' !important;
   font-size: 110px !important;
   padding-bottom: 0px !important;
@@ -35,13 +35,13 @@ section{
   float: left;
 }
 #page1{
-  background-color: white;
-}
-#page2{
   background-color: #2db92d;
 }
+#page2{
+  background-color: white;
+}
 .secondHeading{
-  color: white;
+  color: #2db92d;
   font-family: 'Lucida Grande';
   font-size: 50px !important;
 }
