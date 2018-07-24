@@ -52,5 +52,17 @@ section{
 a:hover {
     text-decoration: underline;
 }
+p{
+  color: #2db92d;
+  font-family: 'Lucida Grande';
+}
+#firstPar{
+  display: inline-block;
+  text-align: left;
+}
+#secondPar{
+  display: inline-block;
+  text-align: center;
+}
 
 
