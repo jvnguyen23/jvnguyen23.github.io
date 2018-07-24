@@ -76,7 +76,7 @@ h2{
   font-family: 'Lucida Grande';
 }
 hr{
-  color: #2db92d;
+  color: #2db92d !important;
 }
 
 
