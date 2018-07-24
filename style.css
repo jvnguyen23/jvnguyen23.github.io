@@ -58,12 +58,18 @@ p{
 }
 #firstPar{
   font-size: 50px;
+  color: #2db92d !important;
+  font-family: 'Lucida Grande' !important;
 }
 #secondPar{
   font-size: 50px;
+  color: #2db92d !important;
+  font-family: 'Lucida Grande' !important;
 }
 #thirdPar{
   font-size: 50px;
+  color: #2db92d !important;
+  font-family: 'Lucida Grande' !important;
 }
 h2{
   color: black;
