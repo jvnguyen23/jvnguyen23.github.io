@@ -58,13 +58,7 @@ p{
 }
 #firstPar{
   display: inline-block;
-  text-align: left;
-  font-size: 60px;
-}
-#secondPar{
-  display: inline-block;
-  text-align: center;
-  font-size: 60px;
+  font-size: 50px;
 }
 h2{
   color: black;
