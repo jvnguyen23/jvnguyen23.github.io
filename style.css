@@ -81,5 +81,6 @@ hr{
 #getStarted{
   color: #cc0000 !important;
   font-family: 'Lucida Grande' !important;
+  font-weight: bold;
 }
 
