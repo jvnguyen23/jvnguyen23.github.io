@@ -1,6 +1,6 @@
 body {
-  padding-top: 40px;
-  padding-bottom: 40px;
+  /*padding-top: 40px;
+  padding-bottom: 40px;*/
   background-color: #2db92d !important;
 }
 h2{
@@ -50,5 +50,7 @@ h2{
   color: white !important;
   font-family: 'Lucida Grande';
   font-size: 50px;
+  margin-top: 0px;
+  text-decoration: none !important;
 }
 
